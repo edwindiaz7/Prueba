@@ -12,7 +12,7 @@ public class HolaMundo {
 	public static void main(String[] args) {
 		HolaMundo hola = new HolaMundo();
 		
-		hola.setSaludo("locooooooooooooooooooooooooooooooooooooooooo");
+		hola.setSaludo("me voy");
 		System.out.println(hola.getSaludo());
 
 	}
