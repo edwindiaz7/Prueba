@@ -13,6 +13,7 @@ public class HolaMundo {
 		HolaMundo hola = new HolaMundo();
 		
 		hola.setSaludo("me voy");
+		hola.setSaludo("volvi");
 		System.out.println(hola.getSaludo());
 
 	}
