@@ -14,6 +14,7 @@ public class HolaMundo {
 		
 		hola.setSaludo("me voy");
 		hola.setSaludo("volvi2");
+		hola.setSaludo("Fabian_0521");
 		System.out.println(hola.getSaludo());
 
 	}
